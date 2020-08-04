@@ -1,0 +1,106 @@
+[
+    {
+        "name": "打不翻的吸盘碗",
+        "list": [
+            {
+                "id": "10001",
+                "color": "蓝色",
+                "price": "21",
+                "img": "../image/blueXPW.jpg"
+            },
+            {
+                "id": "10002",
+                "color": "紫色",
+                "price": "21",
+                "img": "../image/purpleXPW.jpg"
+            },
+            {
+                "id": "10003",
+                "color": "红色",
+                "price": "21",
+                "img": "../image/redXPW.jpg"
+            },
+            {
+                "id": "10004",
+                "color": "黄色",
+                "price": "21",
+                "img": "../image/yellowXPW.jpg"
+            }
+        ]
+    },
+    {
+        "name": "韩式帆布电脑双肩包",
+        "list": [
+            {
+                "id": "10005",
+                "color": "黑色",
+                "price": "227",
+                "img": "../image/blackSJB.jpg"
+            },
+            {
+                "id": "10006",
+                "color": "灰色",
+                "price": "227",
+                "img": "../image/graySJB.jpg"
+            },
+            {
+                "id": "10007",
+                "color": "白色",
+                "price": "227",
+                "img": "../image/whiteSJB.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Carat钻石汤锅20cm",
+        "list": [
+            {
+                "id": "10008",
+                "color": "黑色",
+                "price": "79",
+                "img": "../image/blackTG.jpg"
+            },
+            {
+                "id": "10009",
+                "color": "紫色",
+                "price": "227",
+                "img": "../image/purpleTG.jpg"
+            },
+            {
+                "id": "100010",
+                "color": "黄色",
+                "price": "227",
+                "img": "../image/yellowTG.jpg"
+            }
+        ]
+    },
+    {
+        "name": "中筒皮毛一体雪地靴",
+        "list": [
+            {
+                "id": "10011",
+                "color": "黑色",
+                "price": "359",
+                "img": "../image/blackXDX.jpg"
+            },
+            {
+                "id": "10012",
+                "color": "灰色",
+                "price": "359",
+                "img": "../image/grayXDX.jpg"
+            },
+            {
+                "id": "10013",
+                "color": "白色",
+                "price": "359",
+                "img": "../image/whiteXDX.jpg"
+            },
+            {
+                "id": "10014",
+                "color": "黄色",
+                "price": "359",
+                "img": "../image/yellowXDX.jpg"
+            }
+        ]
+    }
+]
